@@ -22,6 +22,7 @@
 0. Use [robots.txt](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156449) to prevent unnecessary pages from being crawled
 0. Prevent comment spam by using [rel="nofollow"](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=81749) on links
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
+0. Add [mobile URL information](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=34648) to a Sitemap
 
 ## Essential resources
 
