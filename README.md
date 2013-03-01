@@ -8,8 +8,12 @@
 ## On-Site SEO
 
 ## Essential resources
+
+### Tools
 [Google Webmaster Tools](http://www.google.com/webmasters/)
 
+### News and information
+[Search Engine Optimization Starter Guide](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 [Google Webmaster Central](http://googlewebmastercentral.blogspot.se/)
 
 [Google Webmaster Tools: YouTube Channel](http://www.youtube.com/user/GoogleWebmasterHelp)
