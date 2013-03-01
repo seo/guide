@@ -13,6 +13,7 @@
 ## On-Site SEO
 0. Optimize title tags by (1) accurately describing the page's content; (2) making them unique; (3) having brief, but descriptive titles
 0. Optimize the description meta tag by (1) accurately summarize the page's content; (2) making them unique
+0. Optimize URLs by (1) creating a simple structure; (2) where the path uses descriptive words that reflect the page's content; (3) a page is accessed through a single URL ([use canonical URLs](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=139394))
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
 
 ## Essential resources
