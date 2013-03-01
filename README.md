@@ -19,7 +19,7 @@
 [Google Webmaster Tools](http://www.google.com/webmasters/)
 
 ### News and information
-[Search Engine Optimization Starter Guide](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+[Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 [Google Webmaster Central](http://googlewebmastercentral.blogspot.se/)
 
