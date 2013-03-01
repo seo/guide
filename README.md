@@ -2,11 +2,10 @@
 
 ## SEO checklist for new web sites
 
-- Sign up for [Google's Webmaster Tools](http://www.google.com/webmasters/)
--  
+0. Sign up for and set up [Google's Webmaster Tools](http://www.google.com/webmasters/)
+0. sign up for and set up [Google Analytics](http://www.google.com/analytics/)
 
 ## Essential resources
------
 [Google Webmaster Tools](http://www.google.com/webmasters/)
 [Google Webmaster Tools YouTube Channel](http://www.youtube.com/user/GoogleWebmasterHelp)
 [Google Webmaster Central](http://googlewebmastercentral.blogspot.se/)
