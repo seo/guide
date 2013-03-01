@@ -11,6 +11,8 @@
 0. Set up Twitter
 
 ## On-Site SEO
+0. Optimize title tags by (1) accurately describing the page's content; (2) making them unique; (3) having brief, but descriptive titles
+0. Optimize the description meta tag by (1) accurately summarize the page's content; (2) making them unique
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
 
 ## Essential resources
