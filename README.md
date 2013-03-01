@@ -17,4 +17,6 @@
 
 [Google Webmaster Help Forum](https://productforums.google.com/forum/#!forum/webmasters)
 
+[Inside Search](http://insidesearch.blogspot.se/)
+
 [Think With Google](http://thinkwithgoogle.blogspot.se/)
