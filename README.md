@@ -20,7 +20,7 @@
 0. Use heading tags to provide users with an descriptive page outline
 0. Use descriptive and brief file names for *images*. Use the "alt" attribute to describe images
 0. Use [robots.txt](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156449) to prevent unnecessary pages from being crawled
-0. Prevent comment spam by using rel="nofollow" on links
+0. Prevent comment spam by using [rel="nofollow"](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=81749) on links
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
 
 ## Essential resources
