@@ -17,7 +17,10 @@
 0. Optimize the *description meta tag* by (1) accurately summarize the page's content; (2) making them unique
 0. Optimize *URLs* by (1) creating a simple structure that goes from the genral to the specific; (2) where the path uses descriptive words that reflect the page's content; (3) a page is accessed through a single URL ([use canonical URLs](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=139394)); (4) showing useful pages when the user removes the right-most part of the URL
 0. Create a *site map* for visitors, a XML Site Map for search engines, and an [Image Sitemap for images](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=178636)
-1. Use descriptive and brief file names for *images*. Use the "alt" attribute to describe images
+0. Use heading tags to provide users with an descriptive page outline
+0. Use descriptive and brief file names for *images*. Use the "alt" attribute to describe images
+0. Use [robots.txt](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156449) to prevent unnecessary pages from being crawled
+0. Prevent comment spam by using rel="nofollow" on links
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
 
 ## Essential resources
