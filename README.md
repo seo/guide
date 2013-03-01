@@ -3,7 +3,7 @@
 ## SEO checklist for new web sites
 
 0. Sign up for and set up [Google's Webmaster Tools](http://www.google.com/webmasters/)
-  0. 
+  0. Submit a Sitemap
 0. sign up for and set up [Google Analytics](http://www.google.com/analytics/)
 
 ## Essential resources
