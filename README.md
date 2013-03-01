@@ -1,9 +1,9 @@
 # SEO Guide for new web sites
 
 ## Off-Site SEO
-0. [Submit your content](http://www.google.com/submityourcontent/)
 0. Sign up for and set up [Google's Webmaster Tools](http://www.google.com/webmasters/)
   0. Submit a XML Sitemap
+0. [Submit your content](http://www.google.com/submityourcontent/)
 0. sign up for and set up [Google Analytics](http://www.google.com/analytics/)
 0. Set up [Places for Business](www.google.com/placesforbusiness/) with [Rich Snippets for Local Search](http://maps.google.com/help/maps/richsnippetslocal/)
 0. Set up Google+
