@@ -61,7 +61,14 @@
 * site owners can display them on their sites
 
 ## Get your own newsletter
-* actually interesting content for readers
+* actually useful content for readers
+* interesting > useful > actionable
+
+## Start your own podcast
+
+## Capture your audience with YouTube videos
+
+## Write THE e-book
 
 ## Google Places for business
 * http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
