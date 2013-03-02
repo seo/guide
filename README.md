@@ -28,7 +28,7 @@
 0. Follow best [practices for video](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156442).
 0. Add share buttons
 
-## Essential resources
+## Essential SEO Resources
 
 ### Tools
 [Google Webmaster Tools](http://www.google.com/webmasters/)
@@ -64,6 +64,8 @@
 
 # Internet Marketing Strategies
 
+If SEO forms the basis of the marketing pyramid, these strategies takes your marketing to the next level.
+
 ## Identify and participate in the community
 * standard: twitter, facebook, google+
 * what community channels are specific for your site? forums, newsletters
@@ -73,16 +75,24 @@
 * promote in community
 
 ## Use RSS feeds
-* communicate with readers on their terms
+* rss makes it easy to get your latest content
 * site owners can display them on their sites
 
 ## Get your own newsletter
-* actually useful content for readers
-* interesting > useful > actionable
+* be specialized, focus on high quality
+* create GREAT AND FRESH content for readers. summarize, provide new insights ans perspectives
+* useful, actionable, entertaining, educational?
 
 ## Start your own podcast
+* key medium properties: +only requires hearing, -low bandwidth
+* keep a low volume, high quality schedule
+* keep it short and segmented
+* make it trivial to download (not just on itunes), provide rss
+* provide good metadata
 
 ## Capture your audience with YouTube videos
+* key medium properties: high level of detail, involves many senses, very visual
+* illustrate, demonstrate abstract/difficult concepts
 
 ## Write THE e-book on your topic
 
