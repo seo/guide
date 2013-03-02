@@ -1,4 +1,4 @@
-# SEO Guide
+# The State Of The Art SEO Guide
 
 ## Off-Site SEO
 0. Sign up for and set up [Google's Webmaster Tools](http://www.google.com/webmasters/)
