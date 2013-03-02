@@ -23,6 +23,7 @@
 0. Prevent comment spam by using [rel="nofollow"](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=81749) on links
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
 0. Add [mobile URL information](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=34648) to a Sitemap
+0. Set up RSS feeds so that users can easily read your content
 
 ## Essential resources
 
@@ -45,3 +46,13 @@
 [Think With Google](http://thinkwithgoogle.blogspot.se/)
 
 # Internet Marketing Strategies
+
+## Get your own blog
+* blog about your content
+* talk about it (facebook, twitter, communities)
+
+## Use RSS feeds
+
+## Get your own newsletter
+
+## [Google Places for business](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319)
