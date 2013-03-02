@@ -1,6 +1,6 @@
 # State Of The Art Internet Marketing
 
-Documenting Internet marketing as executed by the best of the best from the trenches.
+Internet marketing as executed by the best of the best from the trenches.
 
 ## Off-Site SEO
 0. Sign up for and set up [Google's Webmaster Tools](http://www.google.com/webmasters/)
@@ -74,7 +74,9 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 
 ## Push content to your blog network
 * create or use highly targeted blogs, push relevant content to the right blog
-* promote in community
+* use different blogging services and domains for improved link juice
+* use major services/domains when possible (G+, blogger, tumblr, etc)
+* relevant promotions in the community
 * avoid article databases and other generic content dumps (google sees everything)
 
 ## Use RSS feeds
@@ -102,6 +104,11 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * key medium properties: +high bandwith, +expected to be more substantial, +knowledge and insights before news, -more demanding
 * highly specialized topic, not many pages required
 * gather and present state-of-the-art, provide long-term knowledge (instead of news)
+
+## Be the communal problem solver
+* help people in the community
+* how? answer questions, guide the beginners, relieve the established
+* goodwill -> reputation -> trust, referrals
 
 ## Google Places for business
 * http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
