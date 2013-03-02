@@ -106,3 +106,7 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 ## Google Places for business
 * http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
 
+# Implement, measure and follow up on everything
+* The only way to know if a certain content, method or technique works in by measuring it
+* use analytics tools: google analytics, webmaster tools, ab testing tools
+* on what? ideas for content, content implementation, keyword research, naming, changes in processes
