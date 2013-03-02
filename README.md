@@ -33,6 +33,16 @@
 ### Tools
 [Google Webmaster Tools](http://www.google.com/webmasters/)
 
+[Google Adwords’ Keyword Tool](https://adwords.google.com/select/KeywordToolExternal)
+
+[Google Insights for Search](http://www.google.com/insights/search/)
+
+[Google Trends Keyword Demand Prediction](http://www.google.com/trends)
+
+[Microsoft Advertising Intelligence](http://advertising.microsoft.com/small-business/adcenter-downloads/microsoft-advertising-intelligence)
+
+[Wordtracker’s Free Basic Keyword Demand](https://freekeywords.wordtracker.com/)
+
 ### News and information
 [Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
@@ -70,7 +80,7 @@
 
 ## Capture your audience with YouTube videos
 
-## Write THE e-book
+## Write THE e-book on your topic
 
 ## Google Places for business
 * http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
