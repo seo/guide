@@ -43,6 +43,10 @@
 
 [Wordtracker’s Free Basic Keyword Demand](https://freekeywords.wordtracker.com/)
 
+[Open Site Explorer](http://www.opensiteexplorer.org/)
+
+(Majestic SEO)[http://www.majesticseo.com/]
+
 ### News and information
 [Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
