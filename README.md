@@ -48,9 +48,13 @@
 
 # Internet Marketing Strategies
 
+## Identify and participate in the community
+* standard: twitter, facebook, google+
+* what community channels are specific for your site? forums, newsletters
+
 ## Get your own blog
 * blog about your content
-* Identify and participate/promote on key channels: twitter, facebook, communities, newsletters
+* promote in community
 
 ## Use RSS feeds
 * communicate with readers on their terms
