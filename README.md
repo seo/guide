@@ -24,6 +24,7 @@
 0. Use [rich snippets](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=99170)
 0. Add [mobile URL information](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=34648) to a Sitemap
 0. Set up RSS feeds so that users can easily read your content
+0. use Google Analytics Content Experiments to implement and measure site changes
 
 ## Essential resources
 
@@ -49,10 +50,13 @@
 
 ## Get your own blog
 * blog about your content
-* talk about it (facebook, twitter, communities)
+* Identify and participate/promote on key channels: twitter, facebook, communities, newsletters
 
 ## Use RSS feeds
+* communicate with readers on their terms
+* site owners can display them on their sites
 
 ## Get your own newsletter
+* actually interesting content for readers
 
 ## [Google Places for business](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319)
