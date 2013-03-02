@@ -1,4 +1,6 @@
-# The State Of The Internet Marketing Guide
+# State Of The Art Internet Marketing
+
+Documenting Internet marketing as executed by the best of the best from the trenches.
 
 ## Off-Site SEO
 0. Sign up for and set up [Google's Webmaster Tools](http://www.google.com/webmasters/)
@@ -79,8 +81,9 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * site owners can display them on their sites
 
 ## Get your own newsletter
+* key medium properties: +summarizing, +medium bandwidth, -less user agency
 * be specialized, focus on high quality
-* create GREAT AND FRESH content for readers. summarize, provide new insights ans perspectives
+* create GREAT AND FRESH content for readers. summarize the news flow, provide new insights and perspectives
 * useful, actionable, entertaining, educational?
 
 ## Start your own podcast
@@ -91,10 +94,13 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * provide good metadata
 
 ## Capture your audience with YouTube videos
-* key medium properties: high level of detail, involves many senses, very visual
+* key medium properties: +high bandwidth, involves many senses, very visual
 * illustrate, demonstrate abstract/difficult concepts
 
 ## Write THE e-book on your topic
+* key medium properties: +high bandwith, +expected to be more substantial, +knowledge and insights before news, -more demanding
+* highly specialized topic, not many pages required
+* gather and present state-of-the-art, provide long-term knowledge (instead of news)
 
 ## Google Places for business
 * http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
