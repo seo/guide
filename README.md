@@ -72,9 +72,10 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * standard: twitter, facebook, google+
 * what community channels are specific for your site? forums, newsletters
 
-## Get your own blog
-* blog about your content
+## Push content to your blog network
+* create or use highly targeted blogs, push relevant content to the right blog
 * promote in community
+* avoid article databases and other generic content dumps (google sees everything)
 
 ## Use RSS feeds
 * rss makes it easy to get your latest content
