@@ -26,6 +26,7 @@
 0. Set up RSS feeds so that users can easily read your content
 0. use Google Analytics Content Experiments to implement and measure site changes
 0. Follow best [practices for video](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156442).
+0. Add share buttons
 
 ## Essential resources
 
