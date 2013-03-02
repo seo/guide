@@ -59,4 +59,6 @@
 ## Get your own newsletter
 * actually interesting content for readers
 
-## [Google Places for business](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319)
+## Google Places for business
+* http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
+
