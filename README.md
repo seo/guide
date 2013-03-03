@@ -58,8 +58,6 @@ Internet marketing as executed by the best of the best from the trenches.
 
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
 
-[Inbound (Hacker News for Marketers](http://inbound.org/)
-
 ### News and information
 [Google: Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
@@ -76,6 +74,8 @@ Internet marketing as executed by the best of the best from the trenches.
 [Inside Search](http://insidesearch.blogspot.se/)
 
 [Think With Google](http://thinkwithgoogle.blogspot.se/)
+
+[Inbound (Hacker News for Marketers)](http://inbound.org/)
 
 # Internet Marketing Strategies
 
