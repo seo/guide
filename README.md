@@ -55,6 +55,7 @@ Internet marketing as executed by the best of the best from the trenches.
 [Nylor Keyword Density Tool](http://tools.davidnaylor.co.uk/keyworddensity/)
 
 [GTmetrix Site Speed Tool](http://gtmetrix.com/)
+
 [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
 
 ### News and information
