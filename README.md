@@ -51,9 +51,9 @@ Internet marketing as executed by the best of the best from the trenches.
 [Majestic SEO](http://www.majesticseo.com/)
 
 ### News and information
-[Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+[Google: Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
-[Search Quality Rating Guidelines](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)
+[Google: Search Quality Rating Guidelines (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)
 
 [Google Webmaster Central](http://googlewebmastercentral.blogspot.se/)
 
