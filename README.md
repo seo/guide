@@ -127,4 +127,3 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * use high fidelity pictures and videos for every product no matter how insignificant it seems
 * have a curated selection of your products and other corporate visuals (office hijinks, events, product launches) on pinterest
 * work on your trust strategy. use badges, certificates, social proof, testimonials, reviews (especially 3rd party reviews like Google places reviews, yelp, etc).
-* 
