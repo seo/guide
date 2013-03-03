@@ -117,7 +117,6 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * The only way to know if a certain content, method or technique works in by measuring it
 * use analytics tools: google analytics, webmaster tools, ab testing tools
 * on what? ideas for content, content implementation, keyword research, naming, changes in processes
-* 
 
 # E-commerce
 * sugmit to price comparison engines and shopping engine feeds. Google Shopping, Bing Shopping, TheFind.com, ShopWiki.com
