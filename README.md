@@ -28,7 +28,7 @@ Internet marketing as executed by the best of the best from the trenches.
 0. Add [mobile URL information](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=34648) to a Sitemap
 0. Set up RSS feeds so that users can easily read your content
 0. use Google Analytics Content Experiments to implement and measure site changes
-0. Follow best [practices for video](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156442).
+0. Follow best [practices for video](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=156442). [Submit video sitemaps](http://www.distilled.net/blog/video/creating-video-sitemaps-for-each-video-hosting-platform/) for major video sites.
 0. Add share buttons
 
 ## Essential SEO Resources
@@ -49,6 +49,13 @@ Internet marketing as executed by the best of the best from the trenches.
 [Open Site Explorer](http://www.opensiteexplorer.org/)
 
 [Majestic SEO](http://www.majesticseo.com/)
+
+[Generate Link Building Queries](http://ontolo.com/link-building-query-generator-V2)
+
+[Nylor Keyword Density Tool](http://tools.davidnaylor.co.uk/keyworddensity/)
+
+[GTmetrix Site Speed Tool](http://gtmetrix.com/)
+[PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
 
 ### News and information
 [Google: Search Engine Optimization Starter Guide (PDF)](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com/sv//webmasters/docs/search-engine-optimization-starter-guide.pdf)
