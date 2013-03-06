@@ -143,4 +143,4 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * have a curated selection of your products and other corporate visuals (office hijinks, events, product launches) on pinterest
 * work on your trust strategy. use badges, certificates, social proof, testimonials, reviews (especially 3rd party reviews like Google places reviews, yelp, etc).
 * use [Google Merchant](http://support.google.com/merchants/bin/answer.py?hl=en&answer=188493) to expose your product details to various Google services
-* make sure search engines have deep knowledge about your e-commerce business using [Schema.org](http://searchengineland.com/e-commerce-seo-using-schema-org-just-got-a-lot-more-granular-139236)
+* make sure search engines have deep knowledge about your business using [rich snippets for e-commerce](http://searchengineland.com/e-commerce-seo-using-schema-org-just-got-a-lot-more-granular-139236)
