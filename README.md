@@ -124,6 +124,9 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * goodwill -> reputation -> trust, referrals
 
 ## Google Places for business
+* shows up in local google search results. big visual splash
+* add map details, photos, contact info
+* aggregated customer ratings
 * http://support.google.com/webmasters/bin/answer.py?hl=en&answer=92319
 
 # Implement, measure and follow up on everything
