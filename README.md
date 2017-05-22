@@ -135,8 +135,8 @@ If SEO forms the basis of the marketing pyramid, these strategies takes your mar
 * on what? ideas for content, content implementation, keyword research, naming, changes in processes
 
 # E-commerce
-* sugmit to price comparison engines and shopping engine feeds. Google Shopping, Bing Shopping, TheFind.com, ShopWiki.com
-* smplify the [purchasing experience](http://en.wikipedia.org/wiki/Conversion_funnel). don't require accounts (auto-create them on order submit)
+* submit to price comparison engines and shopping engine feeds. Google Shopping, Bing Shopping, TheFind.com, ShopWiki.com
+* simplify the [purchasing experience](http://en.wikipedia.org/wiki/Conversion_funnel). don't require accounts (auto-create them on order submit)
 * display shipping and other fees as early as possible. look into flat shipping rates
 * write and re-write your product descriptions. sell the experience - not the product spec.
 * use high fidelity pictures and videos for every product no matter how insignificant it seems
