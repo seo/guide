@@ -8,7 +8,7 @@ Internet marketing as executed by the best of the best from the trenches.
 0. [Submit your content](http://www.google.com/submityourcontent/)
 0. sign up for and set up [Google Analytics](http://www.google.com/analytics/)
 0. Set up [Places for Business](www.google.com/placesforbusiness/) with [Rich Snippets for Local Search](http://maps.google.com/help/maps/richsnippetslocal/)
-0. Set up [Google+](http://www.google.com/intl/sv_ALL/+/business/)
+0. ~~Set up [Google+](http://www.google.com/intl/sv_ALL/+/business/)~~ &nbsp;&nbsp;&nbsp; *Google+ No Longer Available*
 0. Set up [Facebook](http://www.facebook.com/pages/create.php)
 0. Set up [Twitter](https://twitter.com/)
 
